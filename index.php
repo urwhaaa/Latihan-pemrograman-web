@@ -1,32 +1,14 @@
 <?php
-echo "<br>HELLO GUYS SELAMAT DATANG DIKELASNYA URWHAAA<br>";
 
-    $nama = "Urwhaaa";
-    $umur = "20";
-    $tinggi = "80";
-    $kelas = "TIB Semester 4";
+echo '<br><br><a href="materi1.php"><button>ke materi 1 : If dan Else</button></a>';
+echo '<br><br><a href="materi2.php"><button>ke materi 2 : Looping</button></a>';
+echo '<br><br><a href="materi3.php"><button>ke materi 3 : If dan Else</button></a>';
+echo '<br><br><a href="materi4.php"><button>ke materi 4 : If dan Else</button></a>';
+echo '<br><br><a href="materi5.php"><button>ke materi 5 : If dan Else</button></a>';
+echo '<br><br><a href="materi6.php"><button>ke materi 6 : If dan Else</button></a>';
+echo '<br><br><a href="materi7.php"><button>ke materi 7 : If dan Else</button></a>';
+echo '<br><br><a href="materi8.php"><button>ke materi 8 : If dan Else</button></a>';
+echo '<br><br><a href="materi9.php"><button>ke materi 9 : If dan Else</button></a>';
+echo '<br><br><a href="materi10.php"><button>ke materi 10 :If dan Else</button></a>';
 
-    echo "<br>Nama saya $nama, <br>umur saya $umur, <br>tinggi saya $tinggi, <br>kelas saya $kelas";
-
-echo "<br><br>========================<br>";
-$nilai1 = 11;
-$nilai2 = 12;
-$nilai3 = 13;
-
-$hasil = $nilai1 * $nilai2 - $nilai3;
-echo "<br>hasil dari $nilai1 x $nilai2 - $nilai3 adalah $hasil";
-
-if($hasil >= 100) {
-    echo "<br>nilai anda lebih dari 100";
-} else if($hasil <= 100){
-    echo "<br>nilai anda kurang dari 100";
-} else {
-    echo "<br>nilai anda kosong";
-}
-if($hasil >= 100) {
-    echo "<br>Nilai anda ganjil";
-} else if ($hasil < 120) {
-    echo "<br>Nilai anda genap";
-}
-
-?>
+?>  
