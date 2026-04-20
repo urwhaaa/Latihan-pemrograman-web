@@ -9,6 +9,6 @@ echo '<br><br><a href="materi6.php"><button>ke materi 6 : If dan Else</button></
 echo '<br><br><a href="materi7.php"><button>ke materi 7 : If dan Else</button></a>';
 echo '<br><br><a href="materi8.php"><button>ke materi 8 : If dan Else</button></a>';
 echo '<br><br><a href="materi9.php"><button>ke materi 9 : If dan Else</button></a>';
-echo '<br><br><a href="materi10.php"><button>ke materi 10 :If dan Else</button></a>';
+echo '<br><br><a href="materi10.php"><button>ke materi 10 : If dan Else</button></a>';
 
-?>  
+?>
