@@ -1,4 +1,5 @@
 <?php
+echo "<h1>Materi 3 : If dan Else</h1>";
 echo "<h3>1. Function tanpa parameter</h3>";
 function sapa() {
     echo "Halo!";
@@ -93,10 +94,10 @@ if (isset($_POST['kirim'])){
 
     // tampilkan dengan keterangan + rumus biar jelas
     $hasilForm = "
-    $angka1 + $angka2 = $hasilTambah <br>
-    $angka1 × $angka2 = $hasilKali <br>
-    $angka1 - $angka2 = $hasilKurang <br>
-    $angka1 ÷ $angka2 = $hasilBagi
+    <br>$angka1 + $angka2 = $hasilTambah <br>
+    <br>$angka1 × $angka2 = $hasilKali <br>
+    <br>$angka1 - $angka2 = $hasilKurang <br>
+    <br>$angka1 ÷ $angka2 = $hasilBagi
     ";
 }
 
